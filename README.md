@@ -51,6 +51,7 @@ The challenges are organized into a series of progressing questions â€˜1 to 45â€
 
 ## Q1. List all Constructors:  
 - Retrieve the names of all constructors
+- - <img width="792" alt="Image" src="https://github.com/user-attachments/assets/4f277a33-a204-42f6-95bc-9eff4c13725e" />
 
 ## Q2. Find all Drivers:  
 - List the names of all Drivers in the dataset  
