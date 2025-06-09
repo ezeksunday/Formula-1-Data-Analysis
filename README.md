@@ -100,31 +100,41 @@ The challenges are organized into a series of progressing questions â€˜1 to 45â€
 - - <img width="809" alt="Image" src="https://github.com/user-attachments/assets/f20252fc-d356-4bf0-b824-25948cdd3b1b" />
 
 ## Q13. Filtering with LIKE:
-- Retrieve all constructors whose name contains 'Ferrari'.  
+- Retrieve all constructors whose name contains 'Ferrari'.
+- - <img width="806" alt="Image" src="https://github.com/user-attachments/assets/b5810523-44ee-473e-8eaf-969de01633d3" />
 
 ## Q14. Filtering with IN:  
 - Retreive all result where the 'ConstructorID' is either 'ferrari' or 'william'.
+- - <img width="835" alt="Image" src="https://github.com/user-attachments/assets/02ef2d76-1017-41a7-b038-106fde1f4a28" />
 
 ## Q15. Filtering with Date:
 - Retrieve all drivers who where born before 2000.
+- - <img width="794" alt="Image" src="https://github.com/user-attachments/assets/c83ad9f2-9b7a-475a-9434-9ce0ac581a5a" />
+- - <img width="816" alt="Image" src="https://github.com/user-attachments/assets/2ae92913-8e1d-4f17-968c-4fe9c33a7597" />
 
 ## Q16. Basic Sortin:
 - Retrieve all races sorted by 'Season' in ascending order.
+- - <img width="821" alt="Image" src="https://github.com/user-attachments/assets/270da665-56b3-4237-9031-b8db906e07fc" />
 
 ## Q17. Sorting with Multiple Columns:  
 - Retrieve all drivers sorted first by 'Nationality, and then by 'GivenName'.
+- - <img width="806" alt="Image" src="https://github.com/user-attachments/assets/a0a1d903-5a93-455e-a067-a0d718f7dcee" />
 
 ## Q18. Descending Order:
-- Retrieve all result sorted by 'points' in descending order.   
+- Retrieve all result sorted by 'points' in descending order.
+- - <img width="523" alt="Image" src="https://github.com/user-attachments/assets/21985823-436c-4d62-aec1-295c8858d0be" />  
 
 ## Q19. Sort with NULL:
-- Retrieve all drivers and sort by 'DateOfBirth', placing NULL values last.  
+- Retrieve all drivers and sort by 'DateOfBirth', placing NULL values last.
+- - <img width="539" alt="Image" src="https://github.com/user-attachments/assets/e16640b5-db0a-4d14-ba09-52840c065309" />  
 
 ## Q20. Top N Result:
-- Retrieve the top 5 drivers with the highest 'points' in the 2020 season.  
+- Retrieve the top 5 drivers with the highest 'points' in the 2020 season.
+- - <img width="566" alt="Image" src="https://github.com/user-attachments/assets/26891fda-f285-4aed-83fc-ed04707fe0dd" />  
 
 ## Q21. Basic LIMIT:
-- Retrieve the first 10 constructors from the 'constructors' table.  
+- Retrieve the first 10 constructors from the 'constructors' table.
+- - <img width="308" alt="Image" src="https://github.com/user-attachments/assets/af58296e-ee2c-4d99-a183-bf9c95b61d91" />   
 
 ## Q22. LIMIT with OFFSET:  
 - Retrieve 10 drivers starting from the 11th driver in the list.  
