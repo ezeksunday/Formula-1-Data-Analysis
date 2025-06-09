@@ -59,21 +59,28 @@ The challenges are organized into a series of progressing questions â€˜1 to 45â€
 
 ## Q3. Count the Number of Constructors:  
 - How many constructors are there in the dataset?
+- <img width="849" alt="Image" src="https://github.com/user-attachments/assets/a52c51d5-bd25-418a-bcbb-7cc228b583c8" />
 
 ## Q4. Count the Number of Drivers:  
- - How many drivers are there in the dataset?  
+ - How many drivers are there in the dataset?
+ - - <img width="815" alt="Image" src="https://github.com/user-attachments/assets/1fedab77-adff-491d-8512-f0abba8b6e78" />
 
 ## Q5. List all Races for a Specific Season:  
-- Retrieve all races that took place in 2020 season.  
+- Retrieve all races that took place in 2020 season.
+- - <img width="835" alt="Image" src="https://github.com/user-attachments/assets/641a6279-74a6-4eb5-9e7a-89fedd48a173" /> 
 
 ## Q6. Basic SELECT:  
-- Retrieve the 'Names' and 'Nationality' of all Constructors.  
+- Retrieve the 'Names' and 'Nationality' of all Constructors.
+- - <img width="813" alt="Image" src="https://github.com/user-attachments/assets/e2b97ad9-96d7-4ae5-958a-1f200fc56b9e" />  
 
 ## Q7. SELECT with Aliases:
-- Retrieve driver 'GivenName' and 'FamilyName' and alias them as 'FirstName' and 'LastName'.  
+- Retrieve driver 'GivenName' and 'FamilyName' and alias them as 'FirstName' and 'LastName'.
+- - <img width="824" alt="Image" src="https://github.com/user-attachments/assets/760eae86-d1dc-4a91-9cc4-9977bf9245c2" />
 
 ## Q8. SELECT Distinct Values:
-- Retrieve Distinct nationalities of drivers from 'drivers' table.  
+- Retrieve Distinct nationalities of drivers from 'drivers' table.
+- - <img width="816" alt="Image" src="https://github.com/user-attachments/assets/7e7104ea-aa79-495b-bcf3-d4de7ad0d1a2" />
+- - <img width="828" alt="Image" src="https://github.com/user-attachments/assets/aef44f67-cb84-4549-b7be-19017835161b" /> 
 
 ## Q9. SELECT with Calculated Columns:
 - Retrieve the 'Position' and 'Points' of drivers, and calculate their 'PointsPerPosition' (Points divide by Position).
