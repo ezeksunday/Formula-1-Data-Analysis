@@ -199,28 +199,37 @@ The challenges are organized into a series of progressing questions ‘1 to 45�
 - - <img width="794" alt="Image" src="https://github.com/user-attachments/assets/233df1e5-0816-4a6c-85b6-07deb9d01a57" /> 
 
 ## Q37. LEFT JOIN:  
-- Retrieve all constructors and any drivers who raced for them(include constructors with no drivers).  
+- Retrieve all constructors and any drivers who raced for them(include constructors with no drivers).
+- - <img width="938" alt="Image" src="https://github.com/user-attachments/assets/10f63ae6-7185-4886-babb-32d7ab048eab" />
 
 ## Q38. RIGHT JOIN:
 - Retrieve all results and the corresponding drivers for each result, including results with no drivers.
+- - <img width="821" alt="Image" src="https://github.com/user-attachments/assets/e45e4a58-dc6b-4f1a-a9e4-35ef45e7e53c" />
 
 ## Q39. LEFT JOIN:  
-- Retrieve a list of all drivers and their corresponding results, including drivers who have not participated in any races.  
+- Retrieve a list of all drivers and their corresponding results, including drivers who have not participated in any races.
+- - <img width="941" alt="Image" src="https://github.com/user-attachments/assets/87614d59-1167-4507-bab4-da639d0fa054" />
 
 ## Q40. JOIN with Multiple Tables:  
 - Retrieve the GivenName, FamilyName, and ConstructorName for each driver, along with their total Points earned in the 2000 season.
+- - <img width="727" alt="Image" src="https://github.com/user-attachments/assets/d0fcba1b-1855-446e-8267-31741a5a98cd" />
 
 ## Q41. Simple Subquery:  
-- Retrieve drivers who have more points than the driver with the least points in the 2000 season.  
+- Retrieve drivers who have more points than the driver with the least points in the 2000 season.
+- - <img width="752" alt="Image" src="https://github.com/user-attachments/assets/80c36498-7980-4ad2-bf71-01035714c034" />
 
 ## Q42. Subquery in SELECT:  
-- Retrieve the 'GivenName' and 'FamilyName' of drivers along with their highest 'Points' in any race.  
+- Retrieve the 'GivenName' and 'FamilyName' of drivers along with their highest 'Points' in any race.
+- - <img width="884" alt="Image" src="https://github.com/user-attachments/assets/62b4d82f-9c33-416b-b3df-badc1a904532" />
 
 ## Q43. Correlated Subquery:
-- Retrieve constructors and their drivers where the driver’s 'Points' is greater than the average 'Points' for that constructor.  
+- Retrieve constructors and their drivers where the driver’s 'Points' is greater than the average 'Points' for that constructor.
+- - <img width="920" alt="Image" src="https://github.com/user-attachments/assets/11369d74-4eeb-4c05-bb0b-1b0ad2baf0eb" />
 
 ## Q44. Simple CTE:  
-- Retrieve the average points scored per driver in the 2000 season. Use a CTE to first calculate the total points scored by each driver, and then calculate the average from this aggregated data.   
+- Retrieve the average points scored per driver in the 2000 season. Use a CTE to first calculate the total points scored by each driver, and then calculate the average from this aggregated data.
+- - <img width="717" alt="Image" src="https://github.com/user-attachments/assets/0f89a8cd-e8fc-48a5-a160-b85ebd107894" />   
 
 ## Q45. Complex CTE:
 Retrieve drivers who have finished in the top 3 positions in more than 5 races in the 2000 season, along with their average points per race
+- - <img width="1001" alt="Image" src="https://github.com/user-attachments/assets/75a7535d-ae28-4b13-b479-5126d8432591" />
