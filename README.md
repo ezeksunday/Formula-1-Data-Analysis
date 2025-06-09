@@ -54,7 +54,8 @@ The challenges are organized into a series of progressing questions â€˜1 to 45â€
 - - <img width="792" alt="Image" src="https://github.com/user-attachments/assets/4f277a33-a204-42f6-95bc-9eff4c13725e" />
 
 ## Q2. Find all Drivers:  
-- List the names of all Drivers in the dataset  
+- List the names of all Drivers in the dataset
+- - <img width="789" alt="Image" src="https://github.com/user-attachments/assets/68188f36-257a-4cfd-9964-afad49cbb544" />  
 
 ## Q3. Count the Number of Constructors:  
 - How many constructors are there in the dataset?
