@@ -84,15 +84,20 @@ The challenges are organized into a series of progressing questions â€˜1 to 45â€
 
 ## Q9. SELECT with Calculated Columns:
 - Retrieve the 'Position' and 'Points' of drivers, and calculate their 'PointsPerPosition' (Points divide by Position).
+- - <img width="789" alt="Image" src="https://github.com/user-attachments/assets/9a41df02-03b4-4274-8ee8-f3fd7139f8ae" />
 
 ## Q10. SELECT with Concatenation:  
-- Retrieve driver 'GivenName' and 'FirstName' concatenate into a single column named 'FullName'.  
+- Retrieve driver 'GivenName' and 'FirstName' concatenate into a single column named 'FullName'.
+- - <img width="516" alt="Image" src="https://github.com/user-attachments/assets/63bd96ff-c13d-46f9-971e-ff90ed20ff63" />
 
 ## Q11. Basic Filtering:  
-- Retrieve all races where the 'Season' is 2022.  
+- Retrieve all races where the 'Season' is 2022.
+- - <img width="816" alt="Image" src="https://github.com/user-attachments/assets/3630f006-c488-4584-bcca-2b5a78f01d39" /> 
 
 ## Q12. Filtering with Multiple Copnditions:  
-- Retrieve drivers who are either 'German' or 'British'.  
+- Retrieve drivers who are either 'German' or 'British'.
+- - <img width="795" alt="Image" src="https://github.com/user-attachments/assets/dc1acb9c-d445-487d-b47e-dfc64ab5ba90" />
+- - <img width="809" alt="Image" src="https://github.com/user-attachments/assets/f20252fc-d356-4bf0-b824-25948cdd3b1b" />
 
 ## Q13. Filtering with LIKE:
 - Retrieve all constructors whose name contains 'Ferrari'.  
