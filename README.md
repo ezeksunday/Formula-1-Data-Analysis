@@ -2,8 +2,8 @@
 
 
 ## INTRODUCTION
-Welcome to the Formula 1 Database Challenge!  
-This project showcases a comprehensive journey through SQL, applying various querying techniques to a rich dataset of Formula 1 racing statistics. As a data enthusiast, I've leveraged this dataset, which includes detailed information on constructors, drivers, races, and results from multiple seasons, to demonstrate my ability to extract, manipulate, and analyze data effectively using SQL.  
+### Welcome to the Formula 1 Database Challenge!  
+This project showcases a comprehensive journey through SQL; Applying various querying techniques to a rich dataset of Formula 1 racing statistics. As a data enthusiast, I've leveraged this dataset, which includes detailed information on constructors, drivers, races, and results from multiple seasons, to demonstrate my ability to extract, manipulate, and analyze data effectively using SQL.  
 This activity is designed to test and enhance SQL skills across various difficulty levels, starting from simple **SELECT** statements and progressing to more advanced queries involving multiple tables, subqueries, and sophisticated data analysis techniques like Common Table Expressions (CTEs). Each task simulates real-world scenarios a data analyst might encounter when working with sports statistics or any large, relational database, emphasizing not just correct results, but also understanding the underlying logic and database interactions  
 
 ## Dataset  
