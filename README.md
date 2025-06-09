@@ -138,49 +138,65 @@ The challenges are organized into a series of progressing questions â€˜1 to 45â€
 - - <img width="308" alt="Image" src="https://github.com/user-attachments/assets/85e018f9-fde9-4f46-93e1-9d79d87226b1" />
 
 ## Q22. LIMIT with OFFSET:  
-- Retrieve 10 drivers starting from the 11th driver in the list.  
+- Retrieve 10 drivers starting from the 11th driver in the list.
+- - <img width="342" alt="Image" src="https://github.com/user-attachments/assets/68989f5a-a4df-49d7-afd7-d028dbebcdb0" />
 
 ## Q23. Top N Result with OFFSET:  
-- Reyrieve the next 10 after the top 5 drivers with the most 'points' in the 2021 season.  
+- Reyrieve the next 10 after the top 5 drivers with the most 'points' in the 2021 season.
+- - <img width="593" alt="Image" src="https://github.com/user-attachments/assets/34091560-5d86-4594-a98b-cc14d3071407" />
 
 ## Q24. LIMIT without ORDER BY:
-- Retrieve the first 5 results of the 2020 season without specifying the order.  
+- Retrieve the first 5 results of the 2020 season without specifying the order.
+- - <img width="805" alt="Image" src="https://github.com/user-attachments/assets/e2ebef29-8968-4b21-b72d-fa4d3de1cc22" />
 
 ## Q25. Pagination:
-- Retrieve drivers for the 2020 season, showing results 11 through 20.  
+- Retrieve drivers for the 2020 season, showing results 11 through 20.
+- - <img width="760" alt="Image" src="https://github.com/user-attachments/assets/17b9097a-8f75-4427-ab3d-d6410d3dd2d6" />
 
 ## Q26. SUM Function:  
-- Calculate the total 'points' scored in the 2024 season.  
+- Calculate the total 'points' scored in the 2024 season.
+- - <img width="427" alt="Image" src="https://github.com/user-attachments/assets/4bed3273-e516-49de-a571-fc92c1e015cd" />
 
 ## Q27.AVG Function:
 - Calculate the average 'points' scored by drivers in the 2000 season.
+- - <img width="386" alt="Image" src="https://github.com/user-attachments/assets/87934a7d-3e2e-49c5-b7c2-34b2df5a6a6f" />
 
 ## Q28. MIN and MAX Functions:
-- Find the Maximum and Minimum 'Points' scored by a driver in the 2021 season.  
+- Find the Maximum and Minimum 'Points' scored by a driver in the 2021 season.
+- - <img width="364" alt="Image" src="https://github.com/user-attachments/assets/09da8c46-2106-4473-acd5-6d27eede5e71" />
 
 ## Q29. COUNT Function:  
-- Count the number of races in 2000 season.  
+- Count the number of races in 2000 season.
+- - <img width="369" alt="Image" src="https://github.com/user-attachments/assets/9c0e227e-87b2-43ce-8170-e594f20920d8" />
 
 ## Q30. GROUP_CONCAT Functions:
 - List all drivers in each constructor, concatenate into a single column.
+- - <img width="821" alt="Image" src="https://github.com/user-attachments/assets/9c930818-4e47-48be-ad45-8085759f8f5f" />
 
 ## Q31. Basic GROUP BY
-- Retrieve the total 'points' scored by each constructor in the 2000 season.  
+- Retrieve the total 'points' scored by each constructor in the 2000 season.
+- - <img width="468" alt="Image" src="https://github.com/user-attachments/assets/d688fe9b-a845-43a9-91fb-6e093b8bbd84" />
 
 ## Q32. GROUP BY with HAVING
-- Retrieve constructors that have more than 20 `Points' in the 2002 season.  
+- Retrieve constructors that have more than 20 `Points' in the 2002 season.
+- - <img width="307" alt="Image" src="https://github.com/user-attachments/assets/a9e19f8e-9918-4b2d-8fb1-dc6ce9001b52" />
 
 ## Q33. COUNT with GROUP BY:
-- Count the number of races each constructor participated in during 2020.  
+- Count the number of races each constructor participated in during 2020.
+- = <img width="463" alt="Image" src="https://github.com/user-attachments/assets/f71369de-cd23-444a-86fa-d4d29e132604" />
 
 ## Q34. SUM with GROUP BY:
 - Calculate the total 'Points' for each driver, grouped by 'Nationality'.
+- - <img width="824" alt="Image" src="https://github.com/user-attachments/assets/c83bf36d-e64e-4b56-aef6-3c2b66820fa1" />
 
 ## Q35. GROUP BY with Multiple Columns:
--  Retrieve the average 'Points' for each constructor and season combination.  
+-  Retrieve the average 'Points' for each constructor and season combination.
+- - <img width="793" alt="Image" src="https://github.com/user-attachments/assets/43bf2c90-05a7-4046-878d-c6ca3b05b061" />
 
 ## Q36. INNER JOIN:  
 - Retrieve driver names and their corresponding constructor names for races in the 2000 season.
+- - <img width="934" alt="Image" src="https://github.com/user-attachments/assets/6f64e529-bdf0-4ec0-a170-19c008911d27" />
+- - <img width="794" alt="Image" src="https://github.com/user-attachments/assets/233df1e5-0816-4a6c-85b6-07deb9d01a57" /> 
 
 ## Q37. LEFT JOIN:  
 - Retrieve all constructors and any drivers who raced for them(include constructors with no drivers).  
